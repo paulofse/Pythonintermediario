@@ -4,23 +4,19 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c3c42aa-6e1b-46b4-af1d-6173167d5c4b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python intermediario.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 - Emprestimo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02 - Base de conversao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03 - Dois numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04 - Servico militar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05 - Notas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06 - Atletas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07 - Triangulos 2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08 - IMC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Valor do produto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 - jokenpo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - jokenpo 2.py" afterDir="false" />
+    <list default="true" id="9c3c42aa-6e1b-46b4-af1d-6173167d5c4b" name="Changes" comment="Primeira Fase, Intermediario">
+      <change afterPath="$PROJECT_DIR$/12 - Contagem regressiva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 - Pares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14 - Soma dos multiplos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 - Tabuada 2.0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 - Soma dos numeros pares escolhidos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17 - Progressão Aritmetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18 - Numero Primo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19 - Polidromo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 - Maior Idade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21 - Peso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/22 - Pessoas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;paulofse&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/paulofse/Pythonintermediario.git&quot;,
+    &quot;accountId&quot;: &quot;c5738119-8627-41de-98f5-ef72f34debbd&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/12 - Contagem regressiva.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -49,30 +60,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.01 - Emprestimo.executor": "Run",
-    "Python.02 - Base de conversao.executor": "Run",
-    "Python.03 - Dois numeros.executor": "Run",
-    "Python.04 - Servico militar.executor": "Run",
-    "Python.05 - Notas.executor": "Run",
-    "Python.06 - Atletas.executor": "Run",
-    "Python.07 - Triangulos 2.0.executor": "Run",
-    "Python.08 - IMC.executor": "Run",
-    "Python.09 - Valor do produto.executor": "Run",
-    "Python.10 - jokenpo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.01 - Emprestimo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02 - Base de conversao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03 - Dois numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04 - Servico militar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05 - Notas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06 - Atletas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07 - Triangulos 2.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08 - IMC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09 - Valor do produto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10 - jokenpo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12 - Contagem regressiva.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13 - Pares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14 - Soma dos multiplos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15 - Tabuada 2.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16 - Soma dos numeros pares escolhidos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17 - Progressão Aritmetica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18 - Numero Primo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19 - Polidromo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20 - Maior Idade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21 - Peso.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22 - Pessoas.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.10 - jokenpo">
-    <configuration name="01 - Emprestimo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Python.22 - Pessoas">
+    <configuration name="17 - Progressão Aritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python intermediario" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +110,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01 - Emprestimo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17 - Progressão Aritmetica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02 - Base de conversao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19 - Polidromo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python intermediario" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,7 +135,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 - Base de conversao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19 - Polidromo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08 - IMC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20 - Maior Idade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python intermediario" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +160,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08 - IMC.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20 - Maior Idade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09 - Valor do produto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21 - Peso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python intermediario" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +185,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Valor do produto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21 - Peso.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10 - jokenpo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22 - Pessoas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python intermediario" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +210,7 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 - jokenpo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22 - Pessoas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.10 - jokenpo" />
-        <item itemvalue="Python.02 - Base de conversao" />
-        <item itemvalue="Python.01 - Emprestimo" />
-        <item itemvalue="Python.09 - Valor do produto" />
-        <item itemvalue="Python.08 - IMC" />
+        <item itemvalue="Python.22 - Pessoas" />
+        <item itemvalue="Python.21 - Peso" />
+        <item itemvalue="Python.20 - Maior Idade" />
+        <item itemvalue="Python.19 - Polidromo" />
+        <item itemvalue="Python.17 - Progressão Aritmetica" />
       </list>
     </recent_temporary>
   </component>
@@ -223,23 +245,51 @@
       <updated>1790691901117</updated>
       <workItem from="1790691902142" duration="3449000" />
       <workItem from="1790715775771" duration="1792000" />
-      <workItem from="1790717624004" duration="9631000" />
+      <workItem from="1790717624004" duration="10492000" />
+      <workItem from="1791460781374" duration="31000" />
+      <workItem from="1791468407660" duration="3831000" />
+      <workItem from="1791472270584" duration="6707000" />
+      <workItem from="1791554006055" duration="2787000" />
     </task>
+    <task id="LOCAL-00001" summary="Primeira Fase, Intermediario">
+      <option name="closed" value="true" />
+      <created>1790727280185</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790727280185</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeira Fase, Intermediario" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeira Fase, Intermediario" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_intermediario$03___Dois_numeros.coverage" NAME="03 - Dois numeros Coverage Results" MODIFIED="1790694713277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_intermediario$04___Servico_militar.coverage" NAME="04 - Servico militar Coverage Results" MODIFIED="1790716775997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_intermediario$06___Atletas.coverage" NAME="06 - Atletas Coverage Results" MODIFIED="1790717428249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_intermediario$09___Valor_do_produto.coverage" NAME="09 - Valor do produto Coverage Results" MODIFIED="1790719208109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_intermediario$02___Base_de_conversao.coverage" NAME="02 - Base de conversao Coverage Results" MODIFIED="1790725662752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_intermediario$10___jokenpo.coverage" NAME="10 - jokenpo Coverage Results" MODIFIED="1790727235317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$06___Atletas.coverage" NAME="06 - Atletas Coverage Results" MODIFIED="1790717428249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$04___Servico_militar.coverage" NAME="04 - Servico militar Coverage Results" MODIFIED="1790716775997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$18___Numero_Primo.coverage" NAME="18 - Numero Primo Coverage Results" MODIFIED="1791472605076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$12___Contagem_regressiva.coverage" NAME="12 - Contagem regressiva Coverage Results" MODIFIED="1791468783517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$20___Maior_Idade.coverage" NAME="20 - Maior Idade Coverage Results" MODIFIED="1791555580224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_intermediario$05___Notas.coverage" NAME="05 - Notas Coverage Results" MODIFIED="1790717034999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$13___Pares.coverage" NAME="13 - Pares Coverage Results" MODIFIED="1791478725484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_intermediario$08___IMC.coverage" NAME="08 - IMC Coverage Results" MODIFIED="1790718801621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_intermediario$01___Emprestimo.coverage" NAME="01 - Emprestimo Coverage Results" MODIFIED="1790725341666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_intermediario$07___Triangulos_2_0.coverage" NAME="07 - Triangulos 2.0 Coverage Results" MODIFIED="1790718133468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$15___Tabuada_2_0.coverage" NAME="15 - Tabuada 2.0 Coverage Results" MODIFIED="1791470494497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$14___Soma_dos_multiplos.coverage" NAME="14 - Soma dos multiplos Coverage Results" MODIFIED="1791478927248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$17___Progressão_Aritmetica.coverage" NAME="17 - Progressão Aritmetica Coverage Results" MODIFIED="1791554361751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$16___Soma_dos_numeros_pares_escolhidos.coverage" NAME="16 - Soma dos numeros pares escolhidos Coverage Results" MODIFIED="1791471113663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$02___Base_de_conversao.coverage" NAME="02 - Base de conversao Coverage Results" MODIFIED="1790725662752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$10___jokenpo.coverage" NAME="10 - jokenpo Coverage Results" MODIFIED="1790727235317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$21___Peso.coverage" NAME="21 - Peso Coverage Results" MODIFIED="1791556324242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$19___Polidromo.coverage" NAME="19 - Polidromo Coverage Results" MODIFIED="1791555167591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_intermediario$22___Pessoas.coverage" NAME="22 - Pessoas Coverage Results" MODIFIED="1791556743061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
